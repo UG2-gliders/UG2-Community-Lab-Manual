@@ -1,0 +1,15 @@
+---
+title: Best Practices
+---
+
+::: {.callout-note}
+## Add to this page:
+Links to best practices (use headers for categories)
+:::
+
+## Batteries
+
+
+## Shipping
+
+

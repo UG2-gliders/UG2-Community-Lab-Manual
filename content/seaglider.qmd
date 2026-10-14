@@ -1,0 +1,8 @@
+---
+title: Seaglider
+---
+
+::: {.callout-note}
+## Add to this page:
+Links to best practices, tools, and other information related to UW SeaGliders
+:::

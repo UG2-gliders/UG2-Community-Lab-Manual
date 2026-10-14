@@ -1,0 +1,8 @@
+---
+title: Sensors
+---
+
+::: {.callout-note}
+## Add to this page:
+Links to best practices, tools, and other information related to Glider Sensors (this is a landing page for the section on sensors)
+:::
