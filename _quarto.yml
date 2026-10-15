@@ -15,7 +15,7 @@ website:
   
   sidebar:
     background: "#BDEDFF"
-    logo: content/images/UG2_Option1.png
+    logo: content/images/UG2_Option1_noBackground.png
     favicon: images/favicon.ico
     pinned: true
     align: center

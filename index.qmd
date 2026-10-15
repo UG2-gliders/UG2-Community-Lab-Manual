@@ -6,13 +6,16 @@ page-layout: full
 
 ## UG2 Open Science Community
 
-The goal of the Underwater Glider User Group (UG2) Open Science Community is to collaborate on developing and sharing best practices, tools, and knowledge to facilitate adoption and expansion of work associated with research using these platforms. 
+The goal of the Underwater Glider User Group (UG2) Open Science Community is to collaborate on developing and sharing best practices, tools, and knowledge to facilitate adoption and expansion of work associated with research using these platforms.
 
-## Join UG2 Communit
-Navigate to the UG2 website to join the community, which will give you the opportunity to join the UG2 Slack. Join us on the #open-science channel!
+## Join UG2 Community
 
+Navigate to the [UG2 website](https://underwatergliders.org/) to join the community, which will give you the opportunity to join the UG2 Slack. Join us on the #open-science channel!
 
 ## Have Information to Share on this page?
-We encourage everyone to share links to their best practices and tools they've developed. To share information, please go to the [https://github.com/UG2-gliders/UG2-Community-Lab-Manual](https://github.com/UG2-gliders/UG2-Community-Lab-Manual) and click on the green'New Issue' button ([link here]()https://github.com/UG2-gliders/UG2-Community-Lab-Manual/issues). 
+
+We encourage everyone to share links to their best practices and tools they've developed.
+
+To share information, please go to the <https://github.com/UG2-gliders/UG2-Community-Lab-Manual> and click on the green **'New Issue'** button ([link here](https://github.com/UG2-gliders/UG2-Community-Lab-Manual/issues)).
 
 Alternatively, join us on the UG2 Slack #open-science channel and ask to share!
