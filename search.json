@@ -93,11 +93,11 @@
     ]
   },
   {
-    "objectID": "index.html#join-ug2-communit",
-    "href": "index.html#join-ug2-communit",
+    "objectID": "index.html#join-ug2-community",
+    "href": "index.html#join-ug2-community",
     "title": "Home",
-    "section": "Join UG2 Communit",
-    "text": "Join UG2 Communit\nNavigate to the UG2 website to join the community, which will give you the opportunity to join the UG2 Slack. Join us on the #open-science channel!",
+    "section": "Join UG2 Community",
+    "text": "Join UG2 Community\nNavigate to the UG2 website to join the community, which will give you the opportunity to join the UG2 Slack. Join us on the #open-science channel!",
     "crumbs": [
       "Home"
     ]
@@ -107,7 +107,7 @@
     "href": "index.html#have-information-to-share-on-this-page",
     "title": "Home",
     "section": "Have Information to Share on this page?",
-    "text": "Have Information to Share on this page?\nWe encourage everyone to share links to their best practices and tools they’ve developed. To share information, please go to the https://github.com/UG2-gliders/UG2-Community-Lab-Manual and click on the green’New Issue’ button (link herehttps://github.com/UG2-gliders/UG2-Community-Lab-Manual/issues).\nAlternatively, join us on the UG2 Slack #open-science channel and ask to share!",
+    "text": "Have Information to Share on this page?\nWe encourage everyone to share links to their best practices and tools they’ve developed.\nTo share information, please go to the https://github.com/UG2-gliders/UG2-Community-Lab-Manual and click on the green ‘New Issue’ button (link here).\nAlternatively, join us on the UG2 Slack #open-science channel and ask to share!",
     "crumbs": [
       "Home"
     ]
